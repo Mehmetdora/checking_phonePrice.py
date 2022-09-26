@@ -1,0 +1,3 @@
+This project is about automation.
+I used BeautifulSoup , requests,smtplib and time python libraries.
+Also, we could use another automation library which is Scrapy in this project.
